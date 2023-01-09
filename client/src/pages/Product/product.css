@@ -1,0 +1,57 @@
+.productDetailContainer {
+  margin: 2rem auto;
+  width: 800px;
+  box-shadow: 0 0 0 1px hsl(0deg 0% 100% / 15%);
+  padding: 0.5rem;
+}
+
+.productDetailContainer img {
+  width: 100%;
+  height: 500px;
+  object-fit: cover;
+}
+
+.productDetailContainer .productInfo {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
+
+.noProduct {  
+  text-align: center !important;
+}  
+
+.productDetailContainer .productInfo h3 {
+  font-size: 1rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.productDetailContainer .productInfo div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;  
+}
+
+.productActions {
+  margin-top: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.productDetailContainer button {
+  margin-top: 0.5rem;
+  background-color: transparent;
+  border: none;
+  color: var(--second-color);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: transform 0.5s ease-in-out;
+}
+
+.productDetailContainer button:hover {
+  transform: scale(1.1);
+}

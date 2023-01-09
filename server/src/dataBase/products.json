@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Monitor LG",
+    "description": "Monitor LG 24P",
+    "category": "monitores",
+    "code": "50MN24",
+    "thumbnail": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/10/elige-mejor-monitor-cada-tipo-juego_1.jpg?itok=afOQQYas",
+    "price": "80530",
+    "stock": "20",
+    "_id": 1,
+    "timestamp": 1668617432370
+  },
+  {
+    "name": "Teclado Redragon",
+    "description": "Teclado Mecanico Redragon",
+    "category": "perifericos",
+    "code": "TCRD20",
+    "thumbnail": "https://s1.eestatic.com/2020/07/17/omicrono/hardware/tecnologia-hardware-videojuegos_505960635_155955698_1706x960.jpg",
+    "price": "25630",
+    "stock": "17",
+    "_id": 2,
+    "timestamp": 1668617504524
+  },
+  {
+    "name": "Parlantes Genius",
+    "description": "Parlantes Gammer Genius",
+    "category": "perifericos",
+    "code": "PTGN",
+    "thumbnail": "https://d2r9epyceweg5n.cloudfront.net/stores/001/145/180/products/whatsapp-image-2022-01-27-at-5-54-26-pm1-72be6de08bd5a3110516441019627476-1024-1024.jpeg",
+    "price": "20235",
+    "stock": "12",
+    "_id": "3",
+    "timestamp": 1668617549363
+  },
+  {
+    "name": "Mouse Aula",
+    "description": "Mouse Gammer Aula",
+    "code": "MSAU",
+    "thumbnail": "https://www.gamescaxas.com/wp-content/uploads/2021/06/MOUSE-GAMER-H510-RGB-AULA_2.png",
+    "price": "6350",
+    "stock": "30",
+    "category": "perifericos",
+    "_id": "4",
+    "timestamp": 1671640814891
+  }
+]

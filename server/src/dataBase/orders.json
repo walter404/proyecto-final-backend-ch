@@ -1,0 +1,107 @@
+[
+  {
+    "products": [
+      {
+        "name": "Teclado Redragon",
+        "description": "Teclado Mecanico Redragon",
+        "category": "perifericos",
+        "code": "TCRD20",
+        "thumbnail": "https://s1.eestatic.com/2020/07/17/omicrono/hardware/tecnologia-hardware-videojuegos_505960635_155955698_1706x960.jpg",
+        "price": "25630",
+        "stock": "17",
+        "_id": 2,
+        "timestamp": 1668617504524,
+        "quantity": 4
+      },
+      {
+        "name": "Parlante Genius",
+        "description": "Parlante Gammer Genius",
+        "category": "perifericos",
+        "code": "PTGN",
+        "thumbnail": "https://d2r9epyceweg5n.cloudfront.net/stores/001/145/180/products/whatsapp-image-2022-01-27-at-5-54-26-pm1-72be6de08bd5a3110516441019627476-1024-1024.jpeg",
+        "price": "60230",
+        "stock": "10",
+        "_id": 3,
+        "timestamp": 1668617549363,
+        "quantity": 2
+      }
+    ],
+    "userId": 2,
+    "email": "martin@gmail.com",
+    "timestamp": 1671718510999,
+    "state": "generado",
+    "username": "Martin",
+    "direccion": "Bv Los Alemanes",
+    "_id": 1
+  },
+  {
+    "products": [
+      {
+        "name": "Teclado Redragon",
+        "description": "Teclado Mecanico Redragon",
+        "category": "perifericos",
+        "code": "TCRD20",
+        "thumbnail": "https://s1.eestatic.com/2020/07/17/omicrono/hardware/tecnologia-hardware-videojuegos_505960635_155955698_1706x960.jpg",
+        "price": "25630",
+        "stock": "17",
+        "_id": 2,
+        "timestamp": 1668617504524,
+        "quantity": 1
+      },
+      {
+        "name": "Monitor LG",
+        "description": "Monitor LG 24P",
+        "category": "monitores",
+        "code": "50MN24",
+        "thumbnail": "https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/1200/public/media/image/2019/10/elige-mejor-monitor-cada-tipo-juego_1.jpg?itok=afOQQYas",
+        "price": "80530",
+        "stock": "20",
+        "_id": 1,
+        "timestamp": 1668617432370,
+        "quantity": 1
+      }
+    ],
+    "userId": 1,
+    "email": "walterame123@gmail.com",
+    "timestamp": 1671726899044,
+    "state": "generado",
+    "username": "Walter",
+    "direccion": "Duarte Quiros",
+    "_id": 2
+  },
+  {
+    "products": [
+      {
+        "name": "Parlante Genius",
+        "description": "Parlante Gammer Genius",
+        "category": "perifericos",
+        "code": "PTGN",
+        "thumbnail": "https://d2r9epyceweg5n.cloudfront.net/stores/001/145/180/products/whatsapp-image-2022-01-27-at-5-54-26-pm1-72be6de08bd5a3110516441019627476-1024-1024.jpeg",
+        "price": "60230",
+        "stock": "10",
+        "_id": 3,
+        "timestamp": 1668617549363,
+        "quantity": 1
+      },
+      {
+        "name": "Mouse Aula",
+        "description": "Mouse Gammer Aula",
+        "code": "MSAU",
+        "thumbnail": "https://www.gamescaxas.com/wp-content/uploads/2021/06/MOUSE-GAMER-H510-RGB-AULA_2.png",
+        "price": "6350",
+        "stock": "30",
+        "category": "perifericos",
+        "_id": "4",
+        "timestamp": 1671640814891,
+        "quantity": 12
+      }
+    ],
+    "userId": 1,
+    "email": "walterame123@gmail.com",
+    "timestamp": 1671726923115,
+    "state": "generado",
+    "username": "Walter",
+    "direccion": "Duarte Quiros",
+    "_id": 3
+  }
+]

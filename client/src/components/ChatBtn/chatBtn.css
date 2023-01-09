@@ -1,0 +1,26 @@
+.chatBtn {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin: 1rem;
+  z-index: 100;
+  background-color: transparent;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%; 
+  border: 1px solid transparent;
+  background-image: linear-gradient(#111111,#111111), linear-gradient(2.45024rad, #f81ce5 0,#7928ca 20%,#111111 90%);
+  background-origin: border-box;
+  background-clip: padding-box, border-box; 
+  transition: transform 0.5s ease-in-out;
+}
+
+.chatBtn:hover {
+  transform: scale(1.1);
+}
+
+
+
+.chatBtn a{
+  text-decoration: none;
+}

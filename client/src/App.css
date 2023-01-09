@@ -1,0 +1,50 @@
+:root {  
+  --main-color: #f2eadf;
+  --second-color: #6ee7b7;
+  --third-color: #7928ca;
+  --fourth-color: #e94f2d;
+  --main-bg: #111111;  
+  --second-bg: #a3a3a3;  
+}
+
+* {  
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px; 
+  font-weight: 400;   
+  margin: 0;
+  padding: 0;  
+  box-sizing: border-box;
+  color: var(--main-color);
+}
+
+html {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;   
+  background: var(--main-bg);
+  min-height: 100vh;
+}
+
+.v {
+  border: 1px solid var(--main-color);
+}
+
+.sectionContainer {
+  padding: 2rem;
+  max-width: 1500px;
+  margin-inline: auto;
+  /* calcular cuanto restar */
+  min-height: calc(100vh);  
+}
+
+.divContainer {
+  padding: 2rem;
+  max-width: 1500px;
+  margin-inline: auto;   
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 100;
+  margin: 1rem auto;
+  text-align: center;
+}

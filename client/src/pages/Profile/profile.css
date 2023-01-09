@@ -1,0 +1,53 @@
+#infoUserContainer {
+  margin: 2rem auto;  
+  width: 20rem;   
+  border-radius: 0.5rem;
+  border: 1px solid transparent;
+  background-image: linear-gradient(#111111,#111111), linear-gradient(2.45024rad, #f81ce5 0,#7928ca 20%,#111111 90%);
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+  box-shadow:0 0 60px rgba(255, 0, 255, 0.274);  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center; 
+  padding: 1rem;
+  /* background radius gradient */
+  /* background-image:radial-gradient(circle, #ff00806e, transparent 60%) */
+}
+
+#infoUserContainer img {
+  margin: 1rem auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+#infoUserContainer h3 {
+  margin: 1rem auto 2rem;  
+  color: white;  
+}
+
+#infoUserContainer a { 
+  background-color: transparent;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+#infoUserContainer button { 
+  background-color: transparent;
+  border: none;
+  color: var(--second-color);
+  font-size: 1rem;
+  text-decoration: none;
+  margin-top: 1rem;
+}
+
+#infoUserContainer button a { 
+  background-color: transparent;
+  border: none;
+  color: var(--second-color);
+  font-size: 1rem;
+  text-decoration: none;
+}
