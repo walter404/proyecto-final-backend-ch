@@ -4,6 +4,8 @@
   "description": "Entrega Final del curso de Backend en CoderHouse",
   "main": "index.js",
   "scripts": {
+    "build": "cd server && npm install  && cd ../client && npm install && npm start",
+    "start": "node server/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
