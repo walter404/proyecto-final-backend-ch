@@ -10,7 +10,7 @@ const Admin = () => {
   return (
     <div className='sectionContainer'>
       {user &&
-      user.username === 'Eneas'
+      user.username === 'walter'
         ?
           <>
             <ProductsContainer/>    
